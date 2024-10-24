@@ -1,10 +1,11 @@
 # Spring Boot OAuth2 Sample Project
 
-This is a sample Spring Boot project demonstrating how to implement OAuth2 authentication using GitHub and Google as providers. The application runs on port `8484`.
+This is a sample Spring Boot project demonstrating how to implement OAuth2 authentication using GitHub and Google as providers.
+The application runs on port `8484`.
 
 ## Technologies Used
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.3.4
 - Spring Security OAuth2 Client
 - Maven
 - OAuth2 (GitHub, Google)
@@ -18,13 +19,12 @@ This is a sample Spring Boot project demonstrating how to implement OAuth2 authe
 ## Prerequisites
 - JDK 17 or higher
 - Maven 3.x or higher
-- A GitHub OAuth application
-- A Google OAuth application
+- A GitHub Account
+- A Google Account
 
 ## Running the Application
 
 ### 1. Clone the Repository
-
-```bash
+cmd to run
 git clone https://github.com/bereket-7/outh2-springboot.git
-cd 
+cd OAuth2-Springboot
